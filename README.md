@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 Starts the development server.
 
-Afterwards you can scan the QR code above with Expo Go (Android) or the Camera app on your phone.
+Afterwards you can scan the QR code above with Expo Go (Android) or the Camera app on your phone to open it.
 
 To use the local CLI instead (recommended in SDK 46 and higher), run:
 ### `npx expo start`
